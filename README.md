@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection - Classification
 
-**Complete Video Tutorial:** https://youtu.be/v14ydtOuOr4
+
 
 # Dataset Information
 
